@@ -51,6 +51,7 @@
             this.btn_raiz = new System.Windows.Forms.Button();
             this.btn_porcentaje = new System.Windows.Forms.Button();
             this.btn_Factorizacion = new System.Windows.Forms.Button();
+            this.dgvHistorial = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txt_Screen
@@ -307,11 +308,23 @@
             this.btn_Factorizacion.UseVisualStyleBackColor = true;
             this.btn_Factorizacion.Click += new System.EventHandler(this.btn_Factorizacion_Click);
             // 
+            // dgvHistorial
+            // 
+            this.dgvHistorial.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dgvHistorial.Location = new System.Drawing.Point(607, 196);
+            this.dgvHistorial.Name = "dgvHistorial";
+            this.dgvHistorial.Size = new System.Drawing.Size(136, 176);
+            this.dgvHistorial.TabIndex = 31;
+            this.dgvHistorial.Text = "Mostrar Historial";
+            this.dgvHistorial.UseVisualStyleBackColor = true;
+            this.dgvHistorial.Click += new System.EventHandler(this.dgvHistorial_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(613, 514);
+            this.ClientSize = new System.Drawing.Size(755, 514);
+            this.Controls.Add(this.dgvHistorial);
             this.Controls.Add(this.btn_Factorizacion);
             this.Controls.Add(this.btn_porcentaje);
             this.Controls.Add(this.btn_raiz);
@@ -367,6 +380,7 @@
         private System.Windows.Forms.Button btn_raiz;
         private System.Windows.Forms.Button btn_porcentaje;
         private System.Windows.Forms.Button btn_Factorizacion;
+        private System.Windows.Forms.Button dgvHistorial;
     }
 }
 

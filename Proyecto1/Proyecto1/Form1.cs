@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Proyecto1
 {
@@ -21,6 +22,8 @@ namespace Proyecto1
         string operador = "";
         double num1 = 0;
         double num2 = 0;
+
+        DBCalculadora db = new DBCalculadora();
 
         private void button4_Click(object sender, EventArgs e)
         {
@@ -88,6 +91,7 @@ namespace Proyecto1
                     }
                     break;
             }
+            db.GuardarOperacion(num1, operador, operador == "!" || operador == "raiz" || operador == "| |" ? (double?)null : num2, txt_Screen.Text);
         }
 
         private void btn_Clear_Click(object sender, EventArgs e)
@@ -251,6 +255,12 @@ namespace Proyecto1
         {
             operador = "!";
             num1 = Convert.ToDouble(txt_Screen.Text);
+        }
+
+        private void dgvHistorial_Click(object sender, EventArgs e)
+        {
+            Historial h = new Historial();
+            h.ShowDialog();
         }
     }
 }

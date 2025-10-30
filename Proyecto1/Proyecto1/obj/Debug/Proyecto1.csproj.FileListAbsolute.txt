@@ -9,3 +9,15 @@ C:\Users\Administrador\Source\Repos\DS4\Laboratorios\Proyecto1\Proyecto1\obj\Deb
 C:\Users\Administrador\Source\Repos\DS4\Laboratorios\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
 C:\Users\Administrador\Source\Repos\DS4\Laboratorios\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb
 C:\Users\Administrador\Source\Repos\DS4\Laboratorios\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe.config
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe.config
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Historial.resources
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\Administrador\Downloads\Projects-main\Projects-main\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb

@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrador\\Source\\Repos\\DS4\\Laboratorios\\Proyecto1\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|c:\\users\\administrador\\source\\repos\\ds4\\laboratorios\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|c:\\users\\administrador\\downloads\\projects-main\\projects-main\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|c:\\users\\administrador\\source\\repos\\ds4\\laboratorios\\proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\proyecto1\\dbcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\dbcalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\proyecto1\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A10AA26-E546-406F-BAC5-60085EC0C31D}|Proyecto1\\Proyecto1.csproj|solutionrelative:proyecto1\\historial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +32,52 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Source\\Repos\\DS4\\Laboratorios\\Proyecto1\\Proyecto1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Source\\Repos\\DS4\\Laboratorios\\Proyecto1\\Proyecto1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\Form1.cs",
               "RelativeToolTip": "Proyecto1\\Form1.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwF0AAACUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T04:44:18.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBCalculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\DBCalculadora.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\DBCalculadora.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\DBCalculadora.cs",
+              "RelativeToolTip": "Proyecto1\\DBCalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:49:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Administrador\\Source\\Repos\\DS4\\Laboratorios\\Proyecto1\\Proyecto1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\Form1.cs",
               "RelativeDocumentMoniker": "Proyecto1\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrador\\Source\\Repos\\DS4\\Laboratorios\\Proyecto1\\Proyecto1\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Proyecto1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T19:57:41.465Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Historial.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\Historial.cs",
+              "RelativeDocumentMoniker": "Proyecto1\\Historial.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Downloads\\Projects-main\\Projects-main\\Proyecto1\\Proyecto1\\Historial.cs",
+              "RelativeToolTip": "Proyecto1\\Historial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T22:59:54.6Z",
+              "EditorCaption": ""
             }
           ]
         }
